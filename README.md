@@ -32,7 +32,7 @@
         height:120px;
         margin:0px;
         border:0px;
-        font-size:20px;">hi
+        font-size:20px;">
         </div>
     </div>
     <div class="opencv"style=" background-size:200px;
