@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+Agrawal;
-    &center=true&size=30">
+    <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" width="100%">
   </a>
 </h1>
 
