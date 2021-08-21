@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" width="100%">
+    <img src="images/hello.gif"width="100%">
   </a>
 </h1>
 
@@ -17,6 +17,7 @@
         <h2>Hey there its Harsh Agrawal</h2>
         <p >B-tech Electrical Engineering student trying to accomplish dreams by increasing learning accuracy.</h1>
     </div>
+    <img align="right" alt="Coder GIF" height=250 width=350 src="images/working.gif" />
   <br>
   <br>
   <ul color:>🔬 Currently pursuing Electrical Engineering from Sardar Vallabhbhai National Institute Of Technology
