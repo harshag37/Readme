@@ -41,7 +41,7 @@
   <code><img title="Opencv" height="25" src="https://brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></code>
   <code><img title="ROS" height="25" src="images/ros.png"></code>
   <code><img title="Gazebo" height="25" src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg"></code>
-  <code><img title="Pygame" height="25" src="https://logodix.com/logo/2058766.gif"></code>
+  <!-- <code><img title="Pygame" height="25" src="https://logodix.com/logo/2058766.gif"></code> -->
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   
 </p>
